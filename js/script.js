@@ -52,5 +52,5 @@ function deleteTodo(index) {
 // Event Listeners
 todoForm.addEventListener('submit', addTodo);
 
-//Initial render
+
 renderTodos();
