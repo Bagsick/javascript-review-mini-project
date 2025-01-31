@@ -8,6 +8,9 @@ body {
     align-items: center;
     height: 100vh;
 }
+.container1 {
+    width: auto;
+}
 
 .container {
     background-color: #fff;
